@@ -19,6 +19,7 @@
     "@babel/plugin-transform-runtime": "^7.16.10",
     "@babel/preset-env": "^7.16.11",
     "@babel/runtime-corejs3": "^7.16.8",
+    "@types/lodash": "^4.14.178",
     "@vue/compiler-sfc": "^3.2.29",
     "autoprefixer": "^10.4.2",
     "babel-loader": "^8.2.3",
@@ -38,6 +39,11 @@
     "webpack-dev-server": "^4.7.3"
   },
   "dependencies": {
+    "axios": "^0.25.0",
+    "dayjs": "^1.10.7",
+    "lodash": "^4.17.21",
+    "numeral": "^2.0.6",
+    "swiper": "^7.4.1",
     "vue": "^3.2.29",
     "vue-router": "^4.0.12",
     "vuex": "^4.0.2"
